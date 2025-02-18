@@ -5283,3 +5283,10 @@ Sampler Limit: 32
 [2025.02.18-01.01.13:237][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.18-01.01.13:237][703]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.18-01.01.13:237][703]AssetCheck: /Game/Minimap/UI_Minimap Validating asset
+[2025.02.18-01.02.37:859][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.18-01.02.37:862][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/TopDownMap' took 0.023
+[2025.02.18-01.02.37:862][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownControllers/BP_TurnBasedGameMode] ([2] browsable assets)...
+[2025.02.18-01.02.37:862][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownControllers/BP_TurnBasedGameMode]
+[2025.02.18-01.02.37:872][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDownControllers/BP_TurnBasedGameMode_Auto5
+[2025.02.18-01.02.37:872][867]LogSavePackage: Moving '../../../../../../Users/Mari/Documents/Unreal Projects/RepoTopDownGrupal/TopDownGrupal/Saved/BP_TurnBasedGameMode_Auto5D48B280A4B88D45F76630D9239BA71C7.tmp' to '../../../../../../Users/Mari/Documents/Unreal Projects/RepoTopDownGrupal/TopDownGrupal/Saved/Autosaves/Game/TopDownControllers/BP_TurnBasedGameMode_Auto5.uasset'
+[2025.02.18-01.02.37:873][867]LogFileHelpers: Auto-saving content packages took 0.011
