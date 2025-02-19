@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+TopDownGrupal/Saved/Cooked/Windows/Engine/GlobalShaderCache-PCD3D_SM6.bin filter=lfs diff=lfs merge=lfs -text
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.pdb filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
