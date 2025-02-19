@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TopDownGrupal/Saved/StagedBuilds/Windows/Engine/Binaries/Win64/*.pdb
